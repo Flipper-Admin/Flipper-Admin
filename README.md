@@ -32,21 +32,15 @@ pero dovete lavorare per 7 giorni senza fare ritardo e per un mese ogni cosa ver
 ------------------------------------------------------------
 Lunedi  | Martedi | Mercoledi | Giovedi | Venerdi | Sabato |
 ------------------------------------------------------------
-Gruppo[2]|
-inviare d|                                                     
+Gruppo[2] inviare d|                                                     
 esigne 3D|                                                       
 ----------
-Gruppo[3]|
-iniziare |
-a program|
-mare il  |
-sistema o|
-prativo  |
+Gruppo[3] iniziare |
+a programmare il  |
+sistema oprativo  |
 ----------
-Gruppo[5]|
-iniziare |
-a progett|
-are in 3D|
+Gruppo[5] iniziare |
+a progettare in 3D|
 ----------
 
 
