@@ -55,7 +55,7 @@ server discord:
 
 Gruppo reparto assemblaggio https://discord.gg/mSFBueeA
 Gruppo reparto designe  https://discord.gg/9pY8ZfFg                  
-Gruppo reparto informatica https://discord.gg/9pY8ZfFg
+Gruppo reparto informatica https://discord.gg/utwRBbxv
 
 Tutto iniziera dalla prossima settimana intanto inviateci le imail vi aspettiamo 
 
